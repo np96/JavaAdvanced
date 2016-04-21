@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: ImplementorTest.jar
+Created-By: 1.8.0_31 (Oracle Corporation)
+Main-Class: ru.ifmo.ctddev.poperechnyi.implementor.Implementor
+
